@@ -1,11 +1,12 @@
 # FantasyBootloader
-> A simple python script to launch fantasy consoles with executable files for Windows and Linux
+> A simple python CLI script to launch fantasy consoles
 
 ## Features
 - Fast and simple code allowing for easy modifications to fit your needs
 - A nice cli interface with an easy to use setup on first run
 - Your options being saved in a text file
 - Support for Pico-8 and TIC-80 with more to come
+- Executable files avabile for Windows and Linux
 
 ## Installation (Executable)
 1. Go to releases and download the FantasyBootloader zip file that matches your OS
