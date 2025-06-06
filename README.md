@@ -10,7 +10,7 @@
 ## Installation (Executable)
 1. Go to releases and download the FantasyBootloader executable for your OS
 2. Open the file and put the FantasyBootloader folder in a safe place
-3. For windows just run the exe for Linux run the program via the terminal by navigating to the FantasyBootloader folder and typing ./FantastyBootloader
+3. For windows just run the exe. For Linux run the program via the terminal by navigating to the FantasyBootloader folder and typing ./FantastyBootloader
 
 
 ## Installation (Script)
