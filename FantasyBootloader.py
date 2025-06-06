@@ -53,7 +53,7 @@ dMP     dMP dMP dMP dMP   dMP   dMP dMP  VMMMP"  VMMMP"   
 \n
 """)
 
-print("Welcome!")
+print("Welcome to Fantasy Bootloader v1.0!")
 if cmdpico8.lower() == "" or cmdpico8.lower() == "n" or cmdpico8.lower() == "no":
     pico8 = False
 else:
