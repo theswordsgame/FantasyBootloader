@@ -8,12 +8,11 @@
 - Support for Pico-8 and TIC-80 with more to come
 
 ## Installation (Executable)
-1. Go to releases and download the FantasyBootloader executable for your OS
-2. Open the file and put the FantasyBootloader folder in a safe place
-3. For windows just run the exe. For Linux run the program via the terminal by navigating to the FantasyBootloader folder and typing ./FantastyBootloader
-
+1. Go to releases and download the FantasyBootloader zip file that matches your OS
+2. Open the zip file and put the FantasyBootloader-x.x folder in a safe place
+3. For windows just run the exe inside the folder. For Linux run the program via the terminal by navigating to the FantasyBootloader-x.x folder and typing ./FantastyBootloader
 
 ## Installation (Script)
-1. Go to releases and download the FantasyBootloader executable for your OS
-2. Open the file and put the FantasyBootloader folder in a safe place
-3. Run the python script in the terminal by navigating to the FantasyBootloader folder and running the script via python
+1. Go to releases and download the FantasyBootloader zip file that matches your OS
+2. Open the zip file and put the FantasyBootloader-x.x folder in a safe place
+3. Run the python script in the terminal by navigating to the FantasyBootloader-x.x folder and running the script via python
