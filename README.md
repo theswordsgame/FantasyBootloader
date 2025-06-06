@@ -1,5 +1,5 @@
 # FantasyBootloader
-> A simple python script to launch fantasy consoles 
+> A simple python script to launch fantasy consoles with executable files for Windows and Linux
 
 ## Features
 - Fast and simple code allowing for easy modifications to fit your needs
